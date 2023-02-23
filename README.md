@@ -6,4 +6,4 @@ Points:
 3. FuelRecordsInput.txt - This file contains all the data that are to use for our project,
 4. FuelCostOutput.txt - In this file our output will be saved
 
-This program will calculate cpg from octane data as well as will calculate fuel cost from miles, mpg, cpg data and will write all the calculated and raw data to the FuelCostOutput.txt file.
+This program will calculate cpg as well as fuel cost using the data relating to miles, mpg, cpg, taken from the 'FuelRecordsInput.txt' file, and will write all the calculated and raw data to the FuelCostOutput.txt file.
