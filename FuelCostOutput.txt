@@ -1,0 +1,36 @@
+Miles : 21.0,
+MPG : 104.2,
+Octane : 83.63,
+CPG : $6.00,
+Fuel Cost : $2.00
+
+Miles : 24.0,
+MPG : 94.6,
+Octane : 90.08,
+CPG : $8.00,
+Fuel Cost : $3.00
+
+Miles : 36.0,
+MPG : 98.72,
+Octane : 93.18,
+CPG : $10.45,
+Fuel Cost : $4.00
+
+Miles : 42.0,
+MPG : 102.64,
+Octane : 97.42,
+CPG : $23.94,
+Fuel Cost : $10.00
+
+Miles : 49.0,
+MPG : 104.56,
+Octane : 112.32,
+CPG : $23.94,
+Fuel Cost : $12.00
+
+Miles : 62.0,
+MPG : 115.4,
+Octane : 118.24,
+CPG : $23.94,
+Fuel Cost : $13.00
+
